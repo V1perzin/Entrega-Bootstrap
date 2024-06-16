@@ -1,0 +1,39 @@
+/* Estilos para a navbar */
+.navbar {
+  background-color: #343a40 !important;
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+}
+
+/* Estilos para a tabela */
+.table {
+  width: 100%;
+  margin-bottom: 1rem;
+  background-color: #fff;
+}
+
+.thead-dark {
+  color: #fff;
+  background-color: #343a40;
+}
+
+/* Estilos para o formulário */
+.form-group {
+  margin-bottom: 1rem;
+}
+
+.form-control {
+  border: 1px solid #ced4da;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+/* Estilos para a mensagem de alerta */
+.alert {
+  display: none; /* Oculta por padrão */
+}
